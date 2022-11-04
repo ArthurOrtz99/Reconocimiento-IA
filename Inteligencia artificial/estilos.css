@@ -1,0 +1,17 @@
+
+
+
+.contenedor{
+    width: 100%;
+    padding: 15px;
+}
+.formulario{
+    background: rgb(196, 190, 37);
+    margin-top: 150px;
+    padding: 3px;
+}
+h1{
+    text-align: center;
+    color: #200ba5;
+    font-size: 50px;
+}
